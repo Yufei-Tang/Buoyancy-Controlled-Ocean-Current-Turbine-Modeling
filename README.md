@@ -1,4 +1,4 @@
-# Buoyancy Controlled Ocean Current Turbine Modeling
+# Buoyancy Controlled Ocean Current Turbine Numerical Modeling
 This repository contains a numerical modeling of a buoyancy controlled ocean current turbine (OCT), simulated through Simulink in Matlab. The OCT system is a 7 DOF sysetm, including a variable buoyancy tank, variable pitch rotor, main body, and a 607 m mooring cable attached to the ocean floor at a depth of 325 m, as shown in Figure.
 <p align="center">
 <img src="https://github.com/IRES-FAU/Buoyancy-Controlled-Ocean-Current-Turbine-Modeling/blob/main/Images/OCT_figure-crop_v2.png" width="400">
@@ -28,7 +28,17 @@ In order to run the codes, you can open and run the simulink (.slx) file.
 # Citing this repository
 Please cite this repository using:
 
+<pre><code>@misc{2021_OCT_IRES,
+  Author = {Intelligent and Resilient Energy Systems (IRES) Research Group},
+  Doi = {10.5281/zenodo.5035867},
+  Howpublished = {https://github.com/IRES-FAU/Buoyancy-Controlled-Ocean-Current-Turbine-Modeling},
+  Month = {June},
+  Publisher = {Zenodo},
+  Title = {Buoyancy Controlled Ocean Current Turbine Numerical Modeling},
+  Url = {https://github.com/IRES-FAU/Buoyancy-Controlled-Ocean-Current-Turbine-Modeling},
+  Version = {1.0.0},
+  Year = {2021}}
+</code></pre>
 
 # Pulications
 The following publications out of the IRES-FAU research group used/referred to this repository:
-  
