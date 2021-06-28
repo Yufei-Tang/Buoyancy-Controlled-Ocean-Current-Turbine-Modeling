@@ -30,7 +30,7 @@ Please cite this repository using:
 
 <pre><code>@misc{2021_OCT_IRES,
   Author = {Intelligent and Resilient Energy Systems (IRES) Research Group},
-  Doi = {10.5281/zenodo.5035867},
+  DOI = {10.5281/zenodo.5035867},
   Howpublished = {https://github.com/IRES-FAU/Buoyancy-Controlled-Ocean-Current-Turbine-Modeling},
   Month = {June},
   Publisher = {Zenodo},
